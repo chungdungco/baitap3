@@ -1,8 +1,10 @@
 Hello
-Dong 2
-Don't
-Sayhello
+ok
+ok
+Dong 1
 Hello
 Hello
 Hello
-Hello
+Bye
+bye
+bye
