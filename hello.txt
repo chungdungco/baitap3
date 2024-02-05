@@ -9,3 +9,7 @@ Hello
 Bye
 bye
 bye
+mot 
+hai
+ba
+bon
